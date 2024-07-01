@@ -1,0 +1,21 @@
+.card {
+  display: block;
+  margin: 0 auto;
+  padding: 20px 0;
+  height: 100%;
+}
+
+.name {
+  text-align: center;
+  font-size: 28px;
+}
+
+.online {
+  color: green;
+  text-align: center;
+}
+
+.offline {
+  color: red;
+  text-align: center;
+}
